@@ -1,5 +1,5 @@
 <h1 align="center">👋, Hello Traveler</h1>
-<h3 align="center">TUK GAME & MULTIMEDIA ENGINEERING</h3>
+<h3 align="center">This Account is Private Project / Beta Project Account</h3>
 
 - 💬 Ask me about **3D modeler(3ds max), Abnormal Team**
 
